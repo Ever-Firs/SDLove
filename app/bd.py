@@ -72,7 +72,26 @@ image = ["AgACAgIAAxkBAAN8ZzSodKJwWJqBxq7k4l2JG5vzGM0AAiLjMRvQSqlJ8FGGXKW6F04BAA
          "AgACAgIAAxkBAAIBDWc0wCyJ8Ryn7xf7tpfexH9kEGyfAAL_4zEb0EqpSSp1Il9GnMwPAQADAgADeQADNgQ",
          "AgACAgIAAxkBAAIBD2c0wDIKXT-wxzPZdi7EFSdqlL9EAAPkMRvQSqlJz8jgtC1m7W8BAAMCAAN5AAM2BA",
          "AgACAgIAAxkBAAIBEWc0wDYvidy-8g6QLJzfqU-605HPAAIB5DEb0EqpSQe_hpGB9E7-AQADAgADeQADNgQ",
-         "AgACAgIAAxkBAAIBE2c0wDyVRo9jRsBXV5KXWT_8kgI8AAIC5DEb0EqpSa0yMRubN4CtAQADAgADeQADNgQ"
+         "AgACAgIAAxkBAAIBE2c0wDyVRo9jRsBXV5KXWT_8kgI8AAIC5DEb0EqpSa0yMRubN4CtAQADAgADeQADNgQ",
+         'AgACAgIAAxkBAAIGIWdKK-94LAbw1ux3M_Cs8WDsUFWnAAJ06DEbwEVRSnYrjp169DaXAQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGH2dKK-vAuM7X7nR8_opc0iURAinpAAJz6DEbwEVRSq4BC5j3J5ZLAQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGHWdKK-evyjD3pT1mlZRdBWnRO0qSAAJy6DEbwEVRSoxyvpbpuZ2pAQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGG2dKK-Joj_8H3wAB6yJmI2sjq56BXAACcegxG8BFUUrmUL2msim84wEAAwIAA3kAAzYE',
+         'AgACAgIAAxkBAAIGGWdKK9647kAsEulWMUyTEOs9bPorAAJw6DEbwEVRSgGqG8Q3Wz93AQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGF2dKK9ofdLe9owgkUAhSa7gxFT9nAAJv6DEbwEVRSuUD0ECOPewNAQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGFWdKK9aVSTQEjp4imhD2TmywOTFBAAJu6DEbwEVRSkzQdTixAbkiAQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGE2dKK9L-G8da9Afz9xDmX6d0kFWIAAJt6DEbwEVRSqnpaYq14lDPAQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGEWdKK82UF9qztLwYgPyu9W_rDn-wAAJr6DEbwEVRSnlP4NP4prlKAQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGD2dKK8lM-7yx_8nAaQYQ25S9dG1cAAJp6DEbwEVRSsddxAa1sIF5AQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGDWdKK8Ry-ItAgFW2JbODgD3MTuagAAJo6DEbwEVRSoUHeoqwxAkuAQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGC2dKK8D3_usC0px8LcHtYZl8BYejAAJn6DEbwEVRSof0ggTzZpfbAQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGCWdKK7qsBsOg5znr1RS3CwhMqqHGAAJm6DEbwEVRSrtchxBv9TFOAQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGB2dKK7avukU-qmT6DRx-EzSXFEZiAAJl6DEbwEVRSiOSSwsRikt2AQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGBWdKK7S081adta6zwkEiQdqcLvZ0AAJj6DEbwEVRSnBcYg6aDK-qAQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGA2dKK7DaPDZkYDSufHPj50wB7a9JAAJi6DEbwEVRStdzu-_ZD95lAQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIGAWdKK6oRrb_MSOMgYBeOA3MbHOvSAAJh6DEbwEVRSt0LFPUkZBu0AQADAgADeQADNgQ',
+         'AgACAgIAAxkBAAIF_2dKK6K3nqnI5pEtRvPLbth0gedEAAJf6DEbwEVRSmn73OuIkh1ZAQADAgADeQADNgQ',
+
          ]
 
 StartText = """Привет моя любимая заечка, и единственная кстати тоже)
@@ -81,3 +100,5 @@ StartText = """Привет моя любимая заечка, и единст�
 
 Выбирай тему, отправляй 1 сообщение из предложенных и наслаждайся! Я тебя очень сильно люблю
 """
+
+# you_text = ""

@@ -7,7 +7,7 @@ import os
 from app.handlers import router
 
 load_dotenv()
-bot = Bot(os.getenv('TESTTOKEN'))
+bot = Bot(os.getenv('TOKEN'))
 dp = Dispatcher()
 
 

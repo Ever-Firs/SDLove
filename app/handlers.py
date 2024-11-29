@@ -24,6 +24,19 @@ async def start(message: Message):
                                reply_markup=kb.main)
 
 
+# @router.message(F.text == 'Пишу')
+# async def miss(message: Message):
+#     bd.you_text = message.from_user.id
+#     await message.answer("Я жду твое сообщение!",
+#                                reply_markup=kb.main)
+#
+# @router.message(F.text == 'Читаю')
+# async def miss(message: Message):
+#     await message.answer(bd.you_text,
+#                                reply_markup=kb.main)
+
+
+
 @router.message(F.text == 'Скучаю')
 async def miss(message: Message):
     await message.answer_photo(random.choice(bd.image), caption=random.choice(bd.i_miss),
